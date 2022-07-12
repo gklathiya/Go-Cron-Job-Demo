@@ -16,4 +16,4 @@ This is a Demo project to implement Cron Job in Go
  │ │ │ │ │                                   7 is also Sunday on some systems)
  │ │ │ │ │
  │ │ │ │ │
- * * * * * <command to execute>
+ 
